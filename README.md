@@ -1,10 +1,10 @@
-# wpLock - Lock for WordPress
+# wpLock - Lock for WordPress Login Page
 
-This is a super simple WordPress login lock. This will not make your Word Press installation any more secure against a targeted attack. However, it will stop those annoying bots from trying to guess your password constantly. It's a quick hack, feel free to improve and add pull requests.
+This is a super simple WordPress login page disabler. This will not make your Word Press installation any more secure against a targeted attack. However, it will stop those annoying bots from trying to guess your password constantly. It's a quick hack, feel free to improve and add pull requests.
 
 ## Installation
 
-1. Copy to your WordPress install directory
+1. Copy wpLock.php to your WordPress install directory
 2. Rename to something other then wpLock.php. This is security by obscurity, so use something obscure :)
 
 ## Usage
