@@ -11,4 +11,7 @@ This is a super simple WordPress login page disabler. This will not make your Wo
 Simply go to the address to the wpLock.php. Unlock and lock the login page from there.
 
 ## Word Press Updating
-When updating Wordpress, make sure that the login page is unlocked, so that the login file can also be updated.
+When updating Wordpress, make sure that the login page is unlocked, so that the login.php file can also be updated.
+
+## Final Notes
+Released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Use it, love it, fork it, make changes, send pull requests. Enjoy!
